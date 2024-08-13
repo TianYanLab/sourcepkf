@@ -1,4 +1,4 @@
-package sourcepkf
+package sourcepkf // import "github.com/huimingz/souceb"
 
 import "fmt"
 
