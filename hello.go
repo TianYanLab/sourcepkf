@@ -1,4 +1,4 @@
-package sourcepkg
+package sourcepkf
 
 import "fmt"
 
